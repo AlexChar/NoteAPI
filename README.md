@@ -4,7 +4,7 @@ This is an api to serve notes. Server listens to port 3000. The system push new 
 
 ## Install & run
 
-Run `npm install` to download packages then run `node app.js` to run the backend server.
+Run `npm install` to download the packages then run `node app.js` to run the backend server.
 
 ## Model
 
